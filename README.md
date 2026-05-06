@@ -4,7 +4,10 @@
 
 ## Progress Tracker
 
+### Basic Foundation
 
-|  Day  |     Problem      |     Topic     |   Difficulty   |   Status   |     Notes/Link     |
-|-------|------------------|---------------|----------------|------------|--------------------|
-|   1   |   Print Number   |   Basic I/O   |     Easy       |     ✅     | Basic input/output |
+
+|  Day  |     Problem      |     Topic     |   Difficulty   |   Status   |
+|-------|------------------|---------------|----------------|------------|
+|   1   |   Print Number   |   Basic I/O   |     Easy       |     ✅     |
+|   2   |   Student Grade  |  Conditionals |     Easy       |     ✅     |
