@@ -11,4 +11,5 @@
 |-------|------------------|---------------|----------------|------------|
 |   1   |   Print Number   |   Basic I/O   |     Easy       |     ✅     |
 |   2   |   Student Grade  |  Conditionals |     Easy       |     ✅     |
-|   3   |   week day       |  switch case  |     Easy       |     ✅     |
+|   3   |   Week Day       |  Switch Case  |     Easy       |     ✅     |
+|   4   |   Sum of Numbers |  Foor Loop    |     Easy       |     ✅     |
