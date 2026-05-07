@@ -11,3 +11,4 @@
 |-------|------------------|---------------|----------------|------------|
 |   1   |   Print Number   |   Basic I/O   |     Easy       |     ✅     |
 |   2   |   Student Grade  |  Conditionals |     Easy       |     ✅     |
+|   3   |   week day       |  switch case  |     Easy       |     ✅     |
