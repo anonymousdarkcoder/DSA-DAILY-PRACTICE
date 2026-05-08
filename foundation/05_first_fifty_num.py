@@ -1,5 +1,4 @@
 # Problem: Sum of First 50 Numbers Ending With Digit d
-# Platform: Basic I/O / While Loop
 # Difficulty: Easy
 
 # Problem Statement:

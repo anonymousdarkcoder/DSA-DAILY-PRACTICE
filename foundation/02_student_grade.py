@@ -1,5 +1,4 @@
 # Problem: Student Grade
-# Platform: Basic I/O / Conditionals
 # Difficulty: Easy
 
 # Problem Statement:

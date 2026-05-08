@@ -1,5 +1,4 @@
 # Problem: Which Week Day
-# Platform: Basic I/O / Switch Case
 # Difficulty: Easy
 
 # Problem Statement:

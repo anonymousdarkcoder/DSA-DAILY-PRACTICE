@@ -1,5 +1,4 @@
 # Problem: Sum of Numbers Using For Loop
-# Platform: Basic I/O / Loops
 # Difficulty: Easy
 
 # Problem Statement:

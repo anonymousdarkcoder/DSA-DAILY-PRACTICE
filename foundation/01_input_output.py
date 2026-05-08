@@ -1,6 +1,4 @@
 # Problem: Print Number
-# Platform: Basic I/O
-
 # Difficulty: Easy
 
 # Problem Statement:
