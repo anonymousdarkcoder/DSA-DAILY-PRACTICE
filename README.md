@@ -14,4 +14,4 @@
 |   3   |   Week Day           |  Switch Case  |     Easy       |     ✅     |
 |   4   |   Sum of Numbers     |  Foor Loop    |     Easy       |     ✅     |
 |   5   |   Sum of first 50 No.|  While Loop   |     Easy       |     ✅     |
-|   6   |   Reverse Array      |  pass by ref  |     Easy       |     ✅     |
+|   6   |   Reverse Array      |  Pass By Ref  |     Easy       |     ✅     |
