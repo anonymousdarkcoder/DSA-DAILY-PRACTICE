@@ -2,8 +2,7 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function whileLoop which takes an integer 'd'
-# (0 to 9) and returns the sum of the first 50 positive integers
+# Complete the function whileLoop which takes an integer 'd' (0 to 9) and returns the sum of the first 50 positive integers
 # that end with digit d.
 
 # Examples:

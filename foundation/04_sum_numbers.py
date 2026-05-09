@@ -2,8 +2,7 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function forLoop which takes two integers
-# 'low' and 'high' and returns the sum of all integers
+# Complete the function forLoop which takes two integers 'low' and 'high' and returns the sum of all integers
 # from low to high inclusive.
 
 # Examples:
