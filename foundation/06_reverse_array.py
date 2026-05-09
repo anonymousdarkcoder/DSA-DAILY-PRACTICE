@@ -2,10 +2,8 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function reverse which takes an array arr
-# and reverses the array in-place.
-# The changes should directly modify the original array
-# without creating a new array.
+# Complete the function reverse which takes an array arr and reverses the array in-place.
+# The changes should directly modify the original array without creating a new array.
 
 # Examples:
 # Input: arr = [1,2,3,4,5]
