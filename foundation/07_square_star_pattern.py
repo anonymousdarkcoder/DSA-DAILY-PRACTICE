@@ -2,8 +2,7 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function pattern1 which takes an integer n
-# and prints a square pattern of stars (*) of size n × n.
+# Complete the function pattern1 which takes an integer n and prints a square pattern of stars (*) of size n × n.
 
 # Examples:
 # Input: n = 4

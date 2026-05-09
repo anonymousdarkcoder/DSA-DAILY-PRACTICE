@@ -2,8 +2,7 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Given an integer n, print a right-angled triangle
-# star pattern containing n rows.
+# Given an integer n, print a right-angled triangle star pattern containing n rows.
 #
 # In each row:
 # - The number of stars (*) should be equal
