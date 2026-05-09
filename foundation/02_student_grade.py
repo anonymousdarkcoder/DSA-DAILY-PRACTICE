@@ -2,8 +2,7 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function studentGrade which takes an integer 'marks' 
-# and prints the corresponding grade based on specific thresholds.
+# Complete the function studentGrade which takes an integer 'marks' and prints the corresponding grade based on specific thresholds.
 
 # Examples:
 # Input: 95

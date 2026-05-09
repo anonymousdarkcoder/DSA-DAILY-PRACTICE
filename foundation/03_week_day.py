@@ -2,10 +2,8 @@
 # Difficulty: Easy
 
 # Problem Statement:
-# Complete the function whichWeekDay which takes an integer 'day'
-# and prints the corresponding day of the week.
-# Week starts from Monday.
-# If the value is less than 1 or greater than 7, print "Invalid".
+# Complete the function whichWeekDay which takes an integer 'day' and prints the corresponding day of the week.
+# Week starts from Monday. If the value is less than 1 or greater than 7, print "Invalid".
 
 # Examples:
 # Input: 3
