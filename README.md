@@ -15,5 +15,6 @@
 |   4   |   Sum of Numbers                |  Foor Loop    |     Easy       |     ✅     |
 |   5   |   Sum of first 50 Numbers       |  While Loop   |     Easy       |     ✅     |
 |   6   |   Reverse Array                 |  Pass By Ref  |     Easy       |     ✅     |
-|   6   |   Square Star Pattern           |  Patter 1     |     Easy       |     ✅     |
-|   6   |   Right Triangle Star Pattern   |  Pattern 2    |     Easy       |     ✅     |
+|   7   |   Square Star Pattern           |  Pattern 1    |     Easy       |     ✅     |
+|   8   |   Right Triangle Star Pattern   |  Pattern 2    |     Easy       |     ✅     |
+|   9   |   Numbers Triangle Pattern      |  Pattern 3    |     Easy       |     ✅     |
