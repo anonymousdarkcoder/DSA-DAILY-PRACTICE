@@ -19,3 +19,4 @@
 |   8   |   Right Triangle Star Pattern         |  Pattern 2    |     Easy       |     ✅     |
 |   9   |   Numbers Triangle Pattern            |  Pattern 3    |     Easy       |     ✅     |
 |  10   |   Repeated Numbers Triangle Pattern   |  Pattern 4    |     Easy       |     ✅     |
+|  11   |   Inverted Star Triangle Pattern      |  Pattern 4    |     Easy       |     ✅     |
