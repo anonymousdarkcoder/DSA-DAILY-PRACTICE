@@ -20,3 +20,4 @@
 |   9   |   Numbers Triangle Pattern            |  Pattern 3    |     Easy       |     ✅     |
 |  10   |   Repeated Numbers Triangle Pattern   |  Pattern 4    |     Easy       |     ✅     |
 |  11   |   Inverted Star Triangle Pattern      |  Pattern 5    |     Easy       |     ✅     |
+|  12   |   Inverted Numbers Triangle Pattern   |  Pattern 6    |     Easy       |     ✅     |
