@@ -22,3 +22,4 @@
 |  11   |   Inverted Star Triangle Pattern      |  Pattern 5    |     Easy       |     ✅     |
 |  12   |   Inverted Numbers Triangle Pattern   |  Pattern 6    |     Easy       |     ✅     |
 |  13   |   Pyramid Star Pattern                |  Pattern 7    |     Easy       |     ✅     |
+|  14   |   Inverted Pyramid Star Pattern       |  Pattern 8    |     Easy       |     ✅     |
