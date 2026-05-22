@@ -24,3 +24,4 @@
 |  13   |   Pyramid Star Pattern                |  Pattern 7    |     Easy       |     ✅     |
 |  14   |   Inverted Pyramid Star Pattern       |  Pattern 8    |     Easy       |     ✅     |
 |  15   |   Diamond Star Pattern                |  Pattern 9    |     Easy       |     ✅     |
+|  16   |   Half Diamond Star Pattern           |  Pattern 10   |     Easy       |     ✅     |
